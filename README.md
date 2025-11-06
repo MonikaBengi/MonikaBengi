@@ -13,7 +13,7 @@ and preparing for my upcoming **Software Development** course.
 ### 💡 About Me
 I’m passionate about creating beautiful, functional, and user-friendly websites.  
 I love learning new things every day, solving design problems, and adding a little creativity to every project.  
-Outside of coding, I enjoy boxing, traveling, and spending time with my family.  
+Every project I create is a reflection of who I am — a mum, a dreamer, and someone who believes that small details can make something truly special.  
 
 ---
 
